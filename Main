@@ -1,0 +1,7 @@
+public class Main {
+    public static void Main(String[] args) {
+        student student1 = new student("Matty", "Cosh", 677777777);
+        student1.Enroll(266120);
+        student1.displayEnrolledCourse();
+    }
+}
